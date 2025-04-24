@@ -1,7 +1,7 @@
 # Anna-s-page
 <html lang="en">
 <head>
-  <title>This is my Assignment3!</title> 
+  <title>This is Anna's Page!</title> 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="styles/styles.css">
